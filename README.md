@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titizheng)](https://github.com/anuraghazra/github-readme-stats) -->
-## Hello, I'm tingting 👋
+## Hey!  I'm tingting 👋
 
 
 ### About me
