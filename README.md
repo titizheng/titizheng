@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titizheng)](https://github.com/anuraghazra/github-readme-stats) -->
-## 👋
-<p align="center"><a href="https://titizheng.github.io"><img width="80%" alt="Hey!  I'm tingting!" src="./tingtingzheng01.PNG" /></a></p>
-<!-- Hey!  I'm tingting  -->
+
+  
+## Hey, 👋  I'm <a href="https://titizheng.github.io/" target="_blank">Tingting Zheng (titizheng)</a> 
+
+
+<!-- <p align="center"><a href="https://titizheng.github.io"><img width="80%" alt="Hey!  I'm tingting!" src="./tingtingzheng.PNG" /></a></p> -->
+
 ### About me
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=titizheng&show_icons=true&theme=tokyonight&hide_border=true" alt="tingting's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titizheng&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
