@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titizheng)](https://github.com/anuraghazra/github-readme-stats) -->
 <img align="right" src="https://komarev.com/ghpvc/?username=titizheng&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
   
-## Hey, 👋  I'm <a href="https://titizheng.github.io/" target="_blank">Tingting Zheng (titizheng)</a> 
+## Hey, 👋  I'm <a href="https://titizheng.github.io/" target="_blank">Tingting Zheng (郑停停)</a> 
 
 
 
